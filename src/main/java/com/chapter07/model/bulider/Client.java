@@ -9,5 +9,6 @@ public class Client {
         Product product   = director.construct();
         //显示产品信息
         product.display ();
+
     }
 }
